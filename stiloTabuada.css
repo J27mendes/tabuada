@@ -1,0 +1,65 @@
+body {
+    background: rgba(0, 75, 151, 0.946);
+    font: normal 18pt Arial;
+
+}
+
+header {
+    text-align: center;
+    color: white;
+
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.193);
+    
+}
+#resX{
+    padding: 20px;
+    background: blueviolet;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: right;
+    margin: 5px;
+}
+#resD{
+    padding: 20px;
+    background: chartreuse;
+    font-size: 20px;
+    color: #000000;
+    text-align: left;
+    margin: 5px;
+}
+#resS{
+    padding: 20px;
+    background: cornflowerblue;
+    font-size: 20px;
+    color: #000000;
+    text-align: right;
+    margin: 5px;
+}
+#resM{
+    padding: 20px;
+    background: grey;
+    font-size: 20px;
+    color: #ffffff;
+    text-align: left;
+    margin: 5px;
+}
+
+img {
+    margin: 20px;
+}
+
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
